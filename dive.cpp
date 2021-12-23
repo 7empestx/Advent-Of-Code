@@ -99,10 +99,3 @@ void pilot(char dir, int dist, int& hori, int& dept, int& aim)
     }
 }
 #endif
-
-
-
-
-
-
-
